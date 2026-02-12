@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anice-pony-horse">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20%2B%20Mobile%20App%20Developer;AI%20,%20Machine%20Learning%20(ML)%20Engineer;7%2B%20Years%20of%20IT%20Experience;User%20Friendly%20and%20Tech-Focused;&font=Shantell+Sans&size=34&center=true&vCenter=true&width=700&height=60&color=ffffff&pause=1000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Full-Stack%20%2B%20Mobile%20App%20Developer;AI%20,%20Machine%20Learning%20(ML)%20Engineer;7%2B%20Years%20of%20IT%20Experience;User%20Friendly%20and%20Tech-Focused;&font=Shantell+Sans&size=34&center=true&vCenter=true&width=700&height=60&color=ffffff&pause=1000" />
   </a>
 </p>
 

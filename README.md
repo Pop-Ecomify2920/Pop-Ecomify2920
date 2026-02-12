@@ -7,7 +7,9 @@
 # 💫 About Me:
 Specializing in AI-powered mobile and web applications. I design and build scalable, high-performance systems that combine intelligent automation with seamless user experiences.
 
-With strong expertise across frontend, backend, and cloud architecture, I transform complex business requirements into production-ready solutions. My work focuses on integrating AI technologies into modern web and mobile platforms to create smart, efficient, and future-ready applications.
+With strong expertise across frontend, backend, and cloud architecture, I transform complex business requirements into production-ready solutions. 
+
+My work focuses on integrating AI technologies into modern web and mobile platforms to create smart, efficient, and future-ready applications.
 
 I am passionate about clean architecture, performance optimization, and building products that deliver real impact.
 
